@@ -1,0 +1,2 @@
+# STRELA
+Documentation store
